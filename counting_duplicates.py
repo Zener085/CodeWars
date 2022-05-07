@@ -1,4 +1,4 @@
-"""https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/ 6 kyu"""
+"""https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1 6 kyu"""
 
 
 def duplicate_count(text: str) -> int:

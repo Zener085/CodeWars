@@ -1,4 +1,4 @@
-"""https://www.codewars.com/kata/51fda2d95d6efda45e00004e/train/python 4 kyu"""
+"""https://www.codewars.com/kata/51fda2d95d6efda45e00004e 4 kyu"""
 
 
 class User:

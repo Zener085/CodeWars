@@ -1,4 +1,4 @@
-"""https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/python 6 kyu"""
+"""https://www.codewars.com/kata/5ce399e0047a45001c853c2b 6 kyu"""
 
 
 def parts_sums(ls: list) -> list:

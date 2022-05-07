@@ -1,4 +1,4 @@
-"""https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4/train/python 5 kyu"""
+"""https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4 5 kyu"""
 
 from math import sqrt
 

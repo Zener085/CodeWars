@@ -1,4 +1,4 @@
-"""https://www.codewars.com/kata/5544c7a5cb454edb3c000047/train/python 6 kyu"""
+"""https://www.codewars.com/kata/5544c7a5cb454edb3c000047 6 kyu"""
 
 
 def bouncing_ball(h: int, bounce: int, window: int) -> int:

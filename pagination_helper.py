@@ -1,4 +1,4 @@
-"""https://www.codewars.com/kata/515bb423de843ea99400000a/train/python 5 kyu"""
+"""https://www.codewars.com/kata/515bb423de843ea99400000a 5 kyu"""
 
 from math import floor, ceil
 
